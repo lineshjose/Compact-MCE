@@ -18,7 +18,7 @@ A simple plugin that re-organize your WordPress editor TinyMCE controls. We remo
 7. Text background color
 
 ## Download
-Yoy can download latest version from [WordPress.org](https://wordpress.org/plugins/compact-mce/).
+You can download latest version from [WordPress.org](https://wordpress.org/plugins/compact-mce/).
 
 ## Troubleshooting
 If you have any problems running Blue Admin, [Support Forum](https://linesh.com/forums/forum/plugins/compact-mce/).
